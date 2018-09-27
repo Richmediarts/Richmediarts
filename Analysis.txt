@@ -135,60 +135,33 @@ var tooltip=function(v){"use strict";var f="length",Cb="addEventListener",kb,mc,
 		</script>
 <!--End of Paragraph Tool Tips CSS code -->			
 		<img src="images/logoheader.jpg" width="100%" alt="What is Wealth">
-		<h1 align="center">What is Wealth?</h1
+		<h1 align="center">Wealth Creation</h1
 	</head>
 	<body>
 		<center>
 		<nav>
 			<a href="./wealthcreation.html">Wealth Creation</a> |
-			<a href="./analysis.html">Analysis</a> |
-			<a href="./treatments.html">Treatments</a> |
-			<a href="./views.html">Views</a>
+			<a href="/css/">CSS</a> |
+			<a href="/js/">JavaScript</a> |
+			<a href="/jquery/">jQuery</a>
 		</nav>
 		</center>
 		<div class="main">
 		<main>
 			<p>
-			<strong>Wealth</strong> is the <a href="">abundance</a> of <a href="">valuable resources</a> or valuable material <a href="">possessions</a>. This includes the core meaning as held in the originating old English word <i>weal</i>, which is from an <a href="">Indo-European</a> word stem. An individual, community, region or country that possesses an abundance of such possessions or resources to the benefit of the common good is known as wealthy.
-			</p>
-			<p>
-			The modern concept of wealth is of significance in all areas of <a href="">economics</a>, and clearly so for <a href="">growth economics</a> and <a href="">development economics</a> yet the meaning of wealth is context-dependent. At the most general level, economists may define wealth as "anything of value" that captures both the subjective nature of the idea and the idea that it is not a fixed or static concept. Various definitions and concepts of wealth have been asserted by various individuals and in different contexts. Defining wealth can be a <a href="">normative</a> process with various <a href="">ethical</a> implications, since often wealth maximization is seen as a goal or is thought to be a normative principle of its own.
-			</p>
-			<p>
-			The <a href="">United Nations</a> definition of <i>inclusive wealth</i> is a monetary measure which includes the sum of natural, human, and physical assets. Natural capital includes land, forests, <a href="">energy resources</a>, and minerals. Human capital is the population's education and skills. Physical (or "manufactured") capital includes such things as machinery, buildings, and infrastructure.
-			</p>
-			<p>
-			<span class="tooltip" onmouseover="tooltip.pop(this,'#tip2')">Adam Smith</span>, in his seminal work The Wealth of Nations, described wealth as "the annual produce of the land and labour of the society". This "produce" is, at its simplest, that which satisfies human needs and wants of utility. In popular usage, wealth can be described as an abundance of items of economic value, or the state of controlling or possessing such items, usually in the form of money, real estate and personal property. An individual who is considered wealthy, affluent, or rich is someone who has accumulated substantial wealth relative to others in their society or reference group.
-			</p>
-			<p>
-			In economics, net worth refers to the value of assets owned minus the value of liabilities owed at a point in time.[7] Wealth can be categorized into three principal categories: personal property, including homes or automobiles; monetary savings, such as the accumulation of past income; and the capital wealth of income producing assets, including real estate, stocks, bonds, and businesses.[citation needed] All these delineations make wealth an especially important part of social stratification. Wealth provides a type of individual safety net of protection against an unforeseen decline in one's living standard in the event of job loss or other emergency and can be transformed into home ownership, business ownership, or even a college education.[citation needed]
-			</p>
-			Wealth has been defined as a collection of things limited in supply, transferable, and useful in satisfying human desires.[8] Scarcity is a fundamental factor for wealth. When a desirable or valuable commodity (transferable good or skill) is abundantly available to everyone, the owner of the commodity will possess no potential for wealth. When a valuable or desirable commodity is in scarce supply, the owner of the commodity will possess great potential for wealth.
-			</p>
-			<p>
-			'Wealth' refers to some accumulation of resources (net asset value), whether abundant or not. 'Richness' refers to an abundance of such resources (income or flow). A wealthy individual, community, or nation thus has more accumulated resources (capital) than a poor one. The opposite of wealth is destitution. The opposite of richness is poverty.
-			</p>
-			<p>
-			The term implies a social contract on establishing and maintaining ownership in relation to such items which can be invoked with little or no effort and expense on the part of the owner. The concept of wealth is relative and not only varies between societies, but varies between different sections or regions in the same society. A personal net worth of US $10,000 in most parts of the United States would certainly not place a person among the wealthiest citizens of that locale. However, such an amount would constitute an extraordinary amount of wealth in impoverished developing countries.
-			</p>
-			<p>
-			Concepts of wealth also vary across time. Modern labor-saving inventions and the development of the sciences have vastly improved the standard of living in modern societies for even the poorest of people. This comparative wealth across time is also applicable to the future; given this trend of human advancement, it is possible that the standard of living that the wealthiest enjoy today will be considered impoverished by future generations.
-			</p>
-			<p>
-			Industrialization emphasized the role of technology. Many jobs were automated. Machines replaced some workers while other workers became more specialized. Labour specialization became critical to economic success. However, physical capital, as it came to be known, consisting of both the natural capital and the infrastructural capital, became the focus of the analysis of wealth.[citation needed]
-			</p>
-			<p>
-			Adam Smith saw wealth creation as the combination of materials, labour, land, and technology in such a way as to capture a profit (excess above the cost of production).[9] The theories of David Ricardo, John Locke, John Stuart Mill, in the 18th century and 19th century built on these views of wealth that we now call classical economics.
-			</p>
-			<p>
-			Marxian economics (see labor theory of value) distinguishes in the Grundrisse between material wealth and human wealth, defining human wealth as "wealth in human relations"; land and labour were the source of all material wealth. The German cultural historian Silvio Vietta links wealth/poverty to rationality. Having a leading position in the development of rational sciences, in new technologies and in economic production leads to wealth, while the opposite can be correlated with poverty.
+
 			</p>
 		</main>
 		 <div style="display:none;">
             <div id="tip2">
-                <img src="images/330px-Adam_Smith.jpg" style="float:right;margin-left:12px;width:175px;height:224px;" alt="" />
-                <h3>Adam Smith</h3>
-                <p>FRSA (16 June [O.S. 5 June] 1723 – 17 July 1790) was a Scottish economist, philosopher and author as well as a moral philosopher, a pioneer of political economy and a key figure during the Scottish Enlightenment. Smith is best known for two classic works, An Inquiry into the Nature and Causes of the Wealth of Nations (1776) and The Theory of Moral Sentiments (1759). The former, usually abbreviated as The Wealth of Nations, is considered his magnum opus and the first modern work of economics.</p>
+                <img src="images/billionaires.jpg" style="float:right;margin-left:12px;width:200px;height:308px;" alt="" />
+                <h3>Billionaire</h3>
+                <p>
+				A billionaire, in countries that use the short scale number naming system, is a person with a net worth of at least one billion (1,000,000,000, i.e. a thousand million) units of a given currency, usually major currencies such as the United States dollar, the euro or the pound sterling. Additionally, a centibillionaire (or centi-billionaire) is commonly used to reference a billionaire worth one hundred billion dollars (100,000,000,000). The American business magazine Forbes produces a complete global list of known U.S. dollar billionaires every year and updates an Internet version of this list in real time. The American oil magnate John D. Rockefeller became the world's first confirmed U.S. dollar billionaire in 1916.
+				</p>
+				<p>
+				As of 2018, there are over 2,700 U.S. dollar billionaires worldwide, with a combined wealth of over US$9.2 trillion, up from US$7.67 trillion in 2017. According to a 2017 Oxfam report, the top eight richest billionaires own as much combined wealth as "half the human race".
+				</p>
             </div>
             <div id="tip3">
                 <img src="src/tooltip-head.jpg" />
