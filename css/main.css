@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'MyWebFont';
+  src: url('.'); /* IE9 Compat Modes */
+  src: url('../fonts/Beautiful.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/Beautiful.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/Beautiful.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/Beautiful.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/Beautiful.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+div.h1 {
+	font-family: 'MyWebFont', Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 1.5em; /* 40px/16=2.5em */
+	color: chocolate;
+}
+h1 {
+	font-family: 'MyWebFont', Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-style: normal;
+	font-weight: 400;
+}
+
+div.choc {
+    border-top: 5px solid brown;
+	border-bottom: 1px solid brown;
+	margin: 0;
+	padding: 2px;
+	background-color: chocolate;
+}
+	
+nav {
+    background-color: chocolate; 
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+	width: 150px;
+    height: 15px;
+    font-size: 15px;
+    padding: 2px;
+}

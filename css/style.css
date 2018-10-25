@@ -1,4 +1,14 @@
-			body, html {
+@font-face {
+  font-family: 'MyWebFont';
+  src: url('/fonts/Beautiful.eot'); /* IE9 Compat Modes */
+  src: url('/fonts/Beautiful.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/fonts/Beautiful.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/Beautiful.woff') format('woff'), /* Pretty Modern Browsers */
+       url('/fonts/Beautiful.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('/fonts/Beautiful.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+body, html {
 				width: 100%;
 				height: 100%;
 				margin: 0;
@@ -111,4 +121,46 @@
    background-color: lightblue;
    color: gray;
    text-align: center;
+}
+
+body{
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 0.875em; /* 14px/16=0.875em */
+    margin:0 auto}
+
+#main{
+    width:100%;
+    height:250px;
+    background-color: #FFFFFF;
+}
+
+#contentarea{
+    margin:0 auto;
+    width:100%;
+    height:250px;
+}
+
+Hide   Copy Code
+.imagearea {
+    max-width: 100%;
+    margin:0px auto;
+
+}
+		a:link {
+	color: #EC8900;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+	color: #BDB9B9;
+}
+a:active {
+	text-decoration: none;
+}
+        body {
+	margin-left: 0px;
+	margin-right: 0px;
 }
