@@ -8,6 +8,11 @@
        url('../fonts/Beautiful.svg#svgFontName') format('svg'); /* Legacy iOS */
 }
 
+img {
+    width: 100%;
+    height: auto;
+}
+
 div.h1 {
 	font-family: 'MyWebFont', Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
 	font-size: 1.5em; /* 40px/16=2.5em */

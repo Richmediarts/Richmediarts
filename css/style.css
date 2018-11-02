@@ -144,8 +144,9 @@ body{
 
 Hide   Copy Code
 .imagearea {
-    max-width: 100%;
+    width: 100%;
     margin:0px auto;
+	   height:200px;
 
 }
 		a:link {
